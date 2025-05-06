@@ -1,0 +1,10 @@
+# Ignore executable files and large binaries
+*.exe
+exe/
+__pycache__/
+*.pyc
+*.dll
+*.log
+*.tmp
+*.pdb
+*.o
